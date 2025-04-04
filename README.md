@@ -1,4 +1,4 @@
-<img src="./wave1.png" >
+
 <h2 align="left">Hi there! 👋
 
 I'm Minn Thike Tunn, a passionate university student from Myanmar 🇲🇲.
@@ -86,5 +86,3 @@ Let's connect and create something amazing together! 🚀</h2>
 
 
 ###
-
-<img src="./wave.png">
