@@ -110,9 +110,11 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="middle">
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=MinnThikeTunn&theme=github-dark-dimmed&hide_border=false&border_radius=12" alt="GitHub Streak Stats" height="155" />
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=MinnThikeTunn&theme=github-dark-dimmed&hide_border=false&border_radius=12" alt="GitHub Streak Stats" height="165" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-activity-graph.vercel.app/graph?username=MinnThikeTunn&theme=github-dark&hide_border=false&area=true&radius=12" alt="GitHub Contribution Graph" height="165" />
     </td>
   </tr>
 </table>
