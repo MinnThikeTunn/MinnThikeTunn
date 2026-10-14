@@ -6,7 +6,7 @@
 
 [![University](https://img.shields.io/badge/University-UIT%20Yangon-0969da?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Location](https://img.shields.io/badge/Location-Yangon%2C%20Myanmar%20🇲🇲-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MinnThikeTunn)
-[![Focus](https://img.shields.io/badge/Focus-Algorithms%20%7C%20Web%20Dev%20%7C%20Open%20Source-7c3aed?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/MinnThikeTunn)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Engineering%20%7C%20Full--Stack%20%7C%20Algorithms-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Contributions](https://img.shields.io/badge/Open%20Source-Active%20Contributor-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MinnThikeTunn)
 
 <br/>
@@ -15,9 +15,12 @@
   <tr>
     <td width="70%" valign="top">
       <h2>Hi there! 👋</h2>
-      <p>I'm <b>Minn Thike Tunn</b>, a passionate university student from Myanmar 🇲🇲.</p>
+      <p>I'm <b>Minn Thike Tunn</b>, a software engineer and computer science student from Myanmar 🇲🇲.</p>
       <p>
-        Currently diving into web development, algorithms, and open-source contributions. Always excited to collaborate and build cool stuff!
+        Proficient in <b>AI development</b> (autonomous multi-agent architectures, computer vision pipelines, and intelligent local engines) and <b>modern full-stack engineering</b> (TypeScript, Next.js, Python, FastAPI, and distributed backends).
+      </p>
+      <p>
+        Passionate about bridging mathematical rigor and game-theoretic models with production-ready software to solve hard real-world problems.
       </p>
       <p><b>Let's connect and create something amazing together! 🚀</b></p>
     </td>
