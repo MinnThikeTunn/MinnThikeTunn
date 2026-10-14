@@ -6,8 +6,8 @@
 
 [![University](https://img.shields.io/badge/University-UIT%20Yangon-0969da?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Location](https://img.shields.io/badge/Location-Yangon%2C%20Myanmar%20🇲🇲-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MinnThikeTunn)
-[![Focus](https://img.shields.io/badge/Focus-Algorithms%20%7C%20AI%20Systems%20%7C%20Full--Stack-7c3aed?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/MinnThikeTunn)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Active%20Contributor-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MinnThikeTunn)
+[![Focus](https://img.shields.io/badge/Focus-Algorithms%20%7C%20Web%20Dev%20%7C%20Open%20Source-7c3aed?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/MinnThikeTunn)
+[![Contributions](https://img.shields.io/badge/Open%20Source-Active%20Contributor-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MinnThikeTunn)
 
 <br/>
 
@@ -18,9 +18,6 @@
       <p>I'm <b>Minn Thike Tunn</b>, a passionate university student from Myanmar 🇲🇲.</p>
       <p>
         Currently diving into web development, algorithms, and open-source contributions. Always excited to collaborate and build cool stuff!
-      </p>
-      <p>
-        Bridging mathematical theory, game-theoretic decision algorithms, and applied machine learning with real-world, high-impact product engineering.
       </p>
       <p><b>Let's connect and create something amazing together! 🚀</b></p>
     </td>
@@ -34,86 +31,13 @@
 
 ---
 
-## ⚡ Engineering Philosophy
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  "Simplicity is prerequisite for reliability."  — Edsger W. Dijkstra   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+## ⚡ The Mindset
 
 > ### 💡 I love thinking.
-> Deconstructing complex real-world dynamics into deterministic mathematical models — exploring **Extensive-Form Game Theory**, equilibrium computations, behavioral cognitive velocity scoring, and algorithmic optimizations that make systems transparent and provably efficient.
+> Deconstructing complex problem spaces into elegant, deterministic models — exploring algorithmic design, computational theory, and mathematical problem-solving.
 
 > ### 🔥 I love challenges.
-> Tackling ambitious end-to-end engineering problems without fear — whether building real-time **YOLOv8 vision cascades**, architecting **multi-agent cognitive analysis systems**, or engineering **localized conversational commerce engines** with automated Burmese payment verification.
-
----
-
-## 🚀 Featured Engineering & Signature Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/MinnThikeTunn/Strategic_Co-pilot">Strategic Co-Pilot</a></h3>
-      <p>Translates natural-language strategic scenarios into <b>Extensive-Form Game models</b>, computes subgame-perfect equilibria via pure Python algorithms, and renders interactive decision trees.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Game_Theory-Algorithmic-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Visualization-Graphviz-lightgrey?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/MinnThikeTunn/SalePilot">SalePilot & Sale-Brain</a></h3>
-      <p>Conversational commerce and fintech engine tailored for Myanmar SMEs. Features automated bilingual (Burmese & English) order handling, township delivery fee matrices, and mobile wallet slip verification (KBZPay, WavePay).</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fintech-KBZPay%20%2F%20WavePay-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/MinnThikeTunn/Vision-based-Smart-Energy-saving-system">Vision-based Smart Energy System</a></h3>
-      <p>Real-time room occupancy detection and automation platform. Integrates <b>YOLOv8 person detection</b>, an asynchronous FastAPI WebSocket backend, and a Perplexity-inspired dark dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-WebSockets-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-Energy_Automation-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎩 <a href="https://github.com/MinnThikeTunn/Six-Hats-AI-Startup-Idea-Analyzer">Six-Hats AI Idea Analyzer</a></h3>
-      <p>Autonomous multi-agent evaluation platform executing Edward de Bono's <i>Six Thinking Hats</i> methodology to audit startup viability across financial, emotional, critical, and creative vectors.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI_Agents-Multi--Persona-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/MinnThikeTunn/YouTube-Behavioral-Analytics-Goal-Alignment-Engine-YBA-GAE-">YouTube Behavioral Analytics (YBA-GAE)</a></h3>
-      <p>Local-first intentionality audit engine computing cognitive velocity, video alignment scores (VAS), and content friction metrics without sending private watch history to third-party clouds.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-Analytics-blue?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Privacy-Local--First-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-JavaScript-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/MinnThikeTunn/Learn-Sync">Learn-Sync & Academic Co-Pilots</a></h3>
-      <p>Adaptive learning co-pilot and virtual workspace manager that dynamically scales study intensity to real-time university workloads, paired with the official UIT GPA/CGPA Calculator.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-Distributed-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+> Tackling rigorous engineering puzzles, learning new technologies, and pushing the boundaries of web development and system design.
 
 ---
 
@@ -164,19 +88,31 @@
 
 <div align="center">
 
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Developer%20Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Active%20Contributor-2ea44f?style=flat-square&logo=githubactions&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public%20Repos-50%2B-58a6ff?style=flat-square&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Code%20Style-Perplexity%20Minimal-a371f7?style=flat-square" />
+</p>
+
+<br/>
+
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=MinnThikeTunn&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&border_radius=12" alt="Minn Thike Tunn's GitHub Stats" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MinnThikeTunn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false&border_radius=12" alt="Minn Thike Tunn's GitHub Stats" height="165" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MinnThikeTunn&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=12" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MinnThikeTunn&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_radius=12" alt="Top Languages" height="165" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=MinnThikeTunn&theme=dracula&hide_border=false&border_radius=12" alt="GitHub Streak Stats" height="155" />
+      <img src="https://streak-stats.demolab.com/?user=MinnThikeTunn&theme=github-dark-dimmed&hide_border=false&border_radius=12" alt="GitHub Streak Stats" height="155" />
     </td>
   </tr>
 </table>
@@ -184,7 +120,7 @@
 <br/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MinnThikeTunn&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=MinnThikeTunn&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -198,7 +134,7 @@
 <br/><br/>
 
 ### ✍️ Daily Dev Inspiration
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
 
 </div>
 
@@ -208,7 +144,7 @@
 
 <div align="center">
 
-**Open for open-source collaborations, research discussions in game theory & AI, and impactful software engineering.**
+**Open for open-source collaborations and impactful software engineering.**
 
 <br/>
 
@@ -226,6 +162,6 @@
 
 <br/><br/>
 
-<sub>Crafted with intentionality, mathematical curiosity, and code by Minn Thike Tunn.</sub>
+<sub>Crafted with intentionality, curiosity, and code by Minn Thike Tunn.</sub>
 
 </div>
