@@ -7,6 +7,7 @@
 [![University](https://img.shields.io/badge/University-UIT%20Yangon-0969da?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Location](https://img.shields.io/badge/Location-Yangon%2C%20Myanmar%20🇲🇲-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Engineering%20%7C%20Full--Stack%20%7C%20Algorithms-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/MinnThikeTunn)
+[![Awards](https://img.shields.io/badge/Awards-4x_Hackathon_Podium-f59e0b?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/MinnThikeTunn)
 [![Contributions](https://img.shields.io/badge/Open%20Source-Active%20Contributor-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MinnThikeTunn)
 
 <br/>
@@ -41,6 +42,33 @@
 
 > ### 🔥 I love challenges.
 > Tackling rigorous engineering puzzles, learning new technologies, and pushing the boundaries of web development and system design.
+
+---
+
+## 🏅 Honors & Hackathons
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥇 Winner</h3>
+      <p><b>Code2Career Hackathon</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥈 1st Runner Up</h3>
+      <p><b>Let's Tech Hackathon</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥉 2nd Runner Up</h3>
+      <p><b>One Project One Week Hackathon</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥉 2nd Runner Up</h3>
+      <p><b>FITP Competition</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
